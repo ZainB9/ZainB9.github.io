@@ -1,7 +1,7 @@
 ---
 name: Week 8 Project
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/Cong.png
 description: This is a week 8 home assignment.
 custom_js:
   - vega.min
